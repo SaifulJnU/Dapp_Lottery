@@ -14,7 +14,7 @@
    npm install solc@0.8.9 web3 mocha ganache-cli @truffle/hdwallet-provider
    ```
 5. After that open another cmd with the lottery_react folder the simply run the following command:
- ```python
+   ```python
    npm init
    npm install
    npm start
