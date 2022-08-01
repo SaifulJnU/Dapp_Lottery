@@ -19,3 +19,8 @@
    npm install
    npm start
    ```
+   
+# Extra: TO see the ABI and deployed contract
+  ```python
+   node deploy.js
+   ```   
