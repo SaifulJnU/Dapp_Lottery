@@ -1,5 +1,5 @@
 # Dapp_Lottery
-
+# Note: Rinkby testnet is not working currently. So you need to change the testnet Rinkby to Gorli
 ## To run the project:
 ---
 1. Must have to create Metamask wallet
